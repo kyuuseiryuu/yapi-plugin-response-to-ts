@@ -5,7 +5,7 @@ import download from 'downloadjs';
 import ApiTable from "./components/ApiTable";
 import utils from '../utils';
 
-class TypeTrans extends React.Component {
+class SubNav extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -56,4 +56,4 @@ class TypeTrans extends React.Component {
   }
 }
 
-export default withRouter(TypeTrans);
+export default withRouter(SubNav);

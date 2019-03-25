@@ -4,7 +4,7 @@ import { Card, Input, Button } from "antd";
 import download from 'downloadjs';
 import utils from '../utils';
 
-class Index extends React.Component {
+class InterfaceTab extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -43,4 +43,4 @@ class Index extends React.Component {
   }
 }
 
-export default withRouter(Index);
+export default withRouter(InterfaceTab);
