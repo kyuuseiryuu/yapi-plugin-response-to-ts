@@ -7,6 +7,18 @@
  3. `yarn start`
  
 ---
+
+### config.json
+
+```json
+{
+  "plugins": [{
+    "name": "response-to-ts"
+  }]
+}
+```
+
+---
  
 ### 单接口导出  
  
