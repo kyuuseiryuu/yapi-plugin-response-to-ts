@@ -1,6 +1,6 @@
 ## yapi-plugin-response-to-ts
 
-
+> [YAPI](https://github.com/ymfe/yapi)响应转 TS 接口申明.
 
  1. `yarn add https://github.com/kyuuseiryuu/yapi-plugin-response-to-ts`
  2. `ykit pack -m`
